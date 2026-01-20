@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import "../globals.css";
 import Link from "next/link";
 import Image from "next/image";
 import Menu from "@/components/Menu";
